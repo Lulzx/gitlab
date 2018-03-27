@@ -1,0 +1,26 @@
+{
+  "name": "Telegram Gitlab Bot",
+  "version": "1.0",
+  "description": "A Telegram Bot that acts as a Gitlab client.",
+  "engines": {
+    "node": "9.9.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "3.20.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lulzx/gitlab"
+  },
+  "keywords": [
+    "node",
+    "telegraf",
+    "telegram",
+    "git", "gitlab"
+  ],
+  "license": "MIT"
+}
