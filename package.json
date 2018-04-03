@@ -3,7 +3,7 @@
   "version": "1.0",
   "description": "A Telegram Bot that acts as a Gitlab client.",
   "engines": {
-    "node": "9.9.0"
+    "node": ">=8.11.1"
   },
   "main": "index.js",
   "scripts": {
